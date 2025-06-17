@@ -6,7 +6,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Mauricio Alfaro",
+  "author": "Mauricio Alfaro Ruiz",
   "license": "ISC",
   "description": "",
   "dependencies": {
